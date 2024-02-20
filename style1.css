@@ -1,0 +1,19 @@
+p{
+    text-align: center;
+}
+
+
+
+p>img{
+    width: 200px;
+    height: 200px;
+    padding :10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: yellow;
+    box-shadow: 5px 5px rgb(59, 59, 173);
+}
+p>img:hover{
+box-shadow: 5px 20px red;
+background-color: aqua;
+}
